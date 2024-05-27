@@ -1,6 +1,9 @@
 # React Native Native Features
 
 This is a React Native app that showcases various native features.
+![image](https://github.com/nuki1048/react-native-features/assets/112338685/ef9d98a6-b27c-43d6-a81e-5a9148a274ab)
+![image](https://github.com/nuki1048/react-native-features/assets/112338685/36f0c333-c1e2-477a-9bd4-1476f743b477)
+![image](https://github.com/nuki1048/react-native-features/assets/112338685/84a99a61-e231-4b9c-9c71-05c2da60c03e)
 
 ## Features
 
